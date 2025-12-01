@@ -8,7 +8,7 @@
 - 🌱 Learning **LLMs, RAG systems, Cloud deployment & CI/CD**  
 - 💡 Passionate about ** Computer Graphics, AI Agents, and Real-time Apps**  
 - 🎯 Building products that solve real user problems  
-- 📫 Reach me at: **vishalsainiwork@gmail.com**
+- 📫 Reach me at: **vishalsaini160204@gmail.com**
 
 ---
 
@@ -49,25 +49,25 @@
 | **CricketBuzz AI** | Real-time cricket scores + AI insights + social hype tracker | LLMs, Realtime API, Cloud |
 | **FluentUp** *(Hackathon Runner-up)* | AI-driven speaking fluency improvement platform | AI/ML, WebRTC, Deep Learning |
 
-🔗 More here: [Explore My Repositories →](https://github.com/Vishal-016)
+🔗 More here: [Explore My Repositories →](https://github.com/vishal160204)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vishal-016&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-016&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishal160204&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal160204&theme=radical" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/vishal-saini-ai" target="_blank">
+<a href="https://linkedin.com/in/vishal-saini16" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-<a href="mailto:vishalsainiwork@gmail.com" target="_blank">
+<a href="mailto:vishalsaini160204@gmail.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
